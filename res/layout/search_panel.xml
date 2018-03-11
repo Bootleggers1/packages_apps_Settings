@@ -31,9 +31,9 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_margin="@dimen/search_bar_margin"
-            app:cardCornerRadius="@dimen/settings_search_bar_corner_radius"
+            app:cardCornerRadius="25dp"
             app:cardBackgroundColor="?android:attr/colorBackground"
-            app:cardElevation="@dimen/settings_search_bar_elevation">
+            app:cardElevation="1dp">
             <Toolbar
                 android:id="@+id/search_toolbar"
                 android:layout_width="match_parent"
